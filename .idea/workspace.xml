@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Add new notebook">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proton Spin Up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Proton Spin Up.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Titles" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749043526086</updated>
-      <workItem from="1749065299203" duration="2987000" />
+      <workItem from="1749065299203" duration="3407000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -112,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749067808091</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add plots to proton spin up">
+      <option name="closed" value="true" />
+      <created>1749068573111</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749068573111</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Titles">
+      <option name="closed" value="true" />
+      <created>1749068728121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749068728121</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +135,8 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Add data" />
     <MESSAGE value="Add new notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add new notebook" />
+    <MESSAGE value="Add plots to proton spin up" />
+    <MESSAGE value="Titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Titles" />
   </component>
 </project>
