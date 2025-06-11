@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="D Spin Up working">
-      <change afterPath="$PROJECT_DIR$/2_2_2023.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="D fitting added">
       <change beforePath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +85,7 @@
       <workItem from="1749145381095" duration="4755000" />
       <workItem from="1749241385365" duration="113000" />
       <workItem from="1749241519164" duration="3457000" />
-      <workItem from="1749662692642" duration="1318000" />
+      <workItem from="1749662692642" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -185,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749663018741</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="D fitting added">
+      <option name="closed" value="true" />
+      <created>1749664123124</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749664123124</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +207,7 @@
     <MESSAGE value="Fix plots to include pol" />
     <MESSAGE value="Starting D spin up notebook" />
     <MESSAGE value="D Spin Up working" />
-    <option name="LAST_COMMIT_MESSAGE" value="D Spin Up working" />
+    <MESSAGE value="D fitting added" />
+    <option name="LAST_COMMIT_MESSAGE" value="D fitting added" />
   </component>
 </project>
