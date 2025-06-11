@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Starting D spin up notebook">
+    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="D Spin Up working">
+      <change afterPath="$PROJECT_DIR$/DeuteronFitting.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deuteron_Spin_Up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deuteron_Spin_Up.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +46,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jmaxwell/PycharmProjects/NMR_Analysis&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jmaxwell/PycharmProjects/NMR_Analysis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jmaxwell\PycharmProjects\NMR_Analysis" />
@@ -83,7 +86,10 @@
       <option name="presentableId" value="Default" />
       <updated>1749043526086</updated>
       <workItem from="1749065299203" duration="9735000" />
-      <workItem from="1749145381095" duration="716000" />
+      <workItem from="1749145381095" duration="4755000" />
+      <workItem from="1749241385365" duration="113000" />
+      <workItem from="1749241519164" duration="3457000" />
+      <workItem from="1749662692642" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -165,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749133473110</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="D Spin Up working">
+      <option name="closed" value="true" />
+      <created>1749146291271</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749146291271</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +194,7 @@
     <MESSAGE value="Refactor" />
     <MESSAGE value="Fix plots to include pol" />
     <MESSAGE value="Starting D spin up notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting D spin up notebook" />
+    <MESSAGE value="D Spin Up working" />
+    <option name="LAST_COMMIT_MESSAGE" value="D Spin Up working" />
   </component>
 </project>
