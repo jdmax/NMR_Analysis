@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Added fit">
+    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Fixes to fit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +89,7 @@
       <workItem from="1749662692642" duration="3613000" />
       <workItem from="1749734965504" duration="298000" />
       <workItem from="1749735279605" duration="365000" />
-      <workItem from="1749742568725" duration="958000" />
+      <workItem from="1749742568725" duration="2889000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -221,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749665356481</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fixes to fit">
+      <option name="closed" value="true" />
+      <created>1749750177923</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1749750177923</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +246,7 @@
     <MESSAGE value="D fitting added" />
     <MESSAGE value="Added slider to deuteron fitting to show change in shape with r" />
     <MESSAGE value="Added fit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added fit" />
+    <MESSAGE value="Fixes to fit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes to fit" />
   </component>
 </project>
