@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="D fitting added">
+    <list default="true" id="c0256d5a-a8e6-4436-ae5d-8101c790dc81" name="Changes" comment="Added fit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Deuteron_Fitting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NMR_Walkthrough.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Proton_Spin_Up.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jmaxwell/PycharmProjects/NMR_Analysis",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jmaxwell/PycharmProjects/NMR_Analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jmaxwell\PycharmProjects\NMR_Analysis" />
@@ -85,7 +88,10 @@
       <workItem from="1749145381095" duration="4755000" />
       <workItem from="1749241385365" duration="113000" />
       <workItem from="1749241519164" duration="3457000" />
-      <workItem from="1749662692642" duration="1670000" />
+      <workItem from="1749662692642" duration="3613000" />
+      <workItem from="1749734965504" duration="298000" />
+      <workItem from="1749735279605" duration="365000" />
+      <workItem from="1749742568725" duration="958000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -191,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1749664123124</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="D fitting added">
+      <option name="closed" value="true" />
+      <created>1749664684890</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749664684890</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added slider to deuteron fitting to show change in shape with r">
+      <option name="closed" value="true" />
+      <created>1749665077900</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749665077900</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added fit">
+      <option name="closed" value="true" />
+      <created>1749665356481</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749665356481</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +238,8 @@
     <MESSAGE value="Starting D spin up notebook" />
     <MESSAGE value="D Spin Up working" />
     <MESSAGE value="D fitting added" />
-    <option name="LAST_COMMIT_MESSAGE" value="D fitting added" />
+    <MESSAGE value="Added slider to deuteron fitting to show change in shape with r" />
+    <MESSAGE value="Added fit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added fit" />
   </component>
 </project>
